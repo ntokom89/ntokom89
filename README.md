@@ -1,7 +1,8 @@
 # Ntokozo Mweli
 
 I am an aspiring software developer navigating through different challenges. Coding projects start from the ground up designing and planning what tools and  programming languages will be used for the coding project. Started programming during High school in 2018 with Java and learning and mastering other languages during 
-my coding journey solving real life problems. Currently learning flutter on android studio.
+my coding journey solving real life problems. Currently learning ionic with Angular.
+For more details, please contact me at ntokozomweli001@gmail.com or +27 72 985 3908
 
 
 ---
