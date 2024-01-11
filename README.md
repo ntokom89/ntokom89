@@ -1,5 +1,11 @@
 # Ntokozo Mweli
 
+[![Visits Badge](https://badges.pufler.dev/visits/ntokom89/badge-it)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/ntokom89)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/ntokom89)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/ntokom89)](https://badges.pufler.dev)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 An software developer navigating through different challenges. Coding projects start from the ground up designing and planning what tools and  programming languages will be used for the coding project. Started coding journey during High school in 2018 with Java and learning and mastering other languages during 
 my coding journey solving real life problems.
 For more details, please contact me at ntokozomweli001@gmail.com or +27 72 985 3908
