@@ -32,6 +32,9 @@ For more details, please contact me at ntokozomweli001@gmail.com or +27 72 985 3
 ## Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntokom89&show_icons=true&theme=radical)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntokom89&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 ntokom89/ntokom89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
