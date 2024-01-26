@@ -7,11 +7,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="badgesstat" align="center">
+<img src="https://badges.pufler.dev/visits/ntokom89/badge-it&style=flat-square&color=blue" alt=""/>
+   <img src="https://badges.pufler.dev/years/ntokom89" alt=""/>
+   <img src="https://badges.pufler.dev/repos/ntokom89" alt=""/>
+   <img src="https://badges.pufler.dev/gists/ntokom89" alt=""/>
+</div>
 
-[![Visits Badge](https://badges.pufler.dev/visits/ntokom89/badge-it)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/ntokom89)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/ntokom89)](https://badges.pufler.dev)
-[![Gists Badge](https://badges.pufler.dev/gists/ntokom89)](https://badges.pufler.dev)
 
 <h1>
   Hi there
@@ -19,14 +21,18 @@
 </h1>
 
 ## :man_technologist: About Me :
-A software developer maneuvering through various obstacles. Started coding journey during High school in 2018 with Java and learning and mastering other languages during 
-my coding journey solving real life problems and upskilling myseelf. Currently working with Angular, Node.js, TypeScript, Firebase with NoSQL, HTML and CSS.
-For more details, please contact me at ntokozomweli001@gmail.com or +27 72 985 3908
+- :telescope: I’m working as a Full-stack developer and contributing to frontend and backend for building web applications.
 
+- :seedling: Exploring Docker.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks, play video games and read articles along with alternate history.
+
+- :mailbox:How to reach me: LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+           Email: ntokozomweli001@gmail.com
 
 ---
 
-## Languages/Frameworks and Tools
+## :hammer_and_wrench: Languages/Frameworks and Tools:
 <img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
 <img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
