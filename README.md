@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks, play video games and read articles along with alternate history.
 
-- :mailbox:How to reach me: LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Ntokozo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ntokozo-mweli)
            Email: ntokozomweli001@gmail.com
 
 ---
