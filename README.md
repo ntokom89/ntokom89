@@ -1,66 +1,61 @@
-# Ntokozo Mweli
 <div id="header" align="center">
-  <img src="https://avataaars.io/?avatarStyle=Circle&topType=Hat&accessoriesType=Prescription02&facialHairType=BeardLight&facialHairColor=Black&clotheType=ShirtCrewNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=DarkBrown" width="100"/>
+  <img src="https://avataaars.io/?avatarStyle=Circle&topType=Hat&accessoriesType=Prescription02&facialHairType=BeardLight&facialHairColor=Black&clotheType=ShirtCrewNeck&clotheColor=Gray01&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=DarkBrown" width="120"/>
 </div>
+
+<h1 align="center">Hi there, I'm Ntokozo Mweli <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ntokozo-mweli">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ntokozomweli001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
-<div id="badgesstat" align="center">
-<img src="https://badges.pufler.dev/visits/ntokom89/badge-it&style=flat-square&color=blue" alt=""/>
-   <img src="https://badges.pufler.dev/years/ntokom89" alt=""/>
-   <img src="https://badges.pufler.dev/repos/ntokom89" alt=""/>
-   <img src="https://badges.pufler.dev/gists/ntokom89" alt=""/>
-</div>
-
-
-<h1>
-  Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-## :man_technologist: About Me :
-- :telescope: I’m working as a Full-stack developer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Docker.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks, play video games and read articles along with alternate history.
-
-- :mailbox:How to reach me: LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Ntokozo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ntokozo-mweli)
-           Email: ntokozomweli001@gmail.com
 
 ---
 
-## :hammer_and_wrench: Languages/Frameworks and Tools:
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img align = "left" alt = "java" width = "25px" style = "padding-right:10px" src="https://img.icons8.com/color/48/javascript--v1.png" />
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://img.icons8.com/color/48/microsoft-sql-server.png">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-<img align = "left" alt = "java" width = "30px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-<img align = "left" alt = "java" width = "25px" style = "padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg">
-<br/>
+## :man_technologist: About Me
+
+- 🔭 I’m currently working as a **Full-Stack Developer**, building robust web applications across both frontend and backend.
+- 🌱 Currently exploring and leveling up my skills in **Docker**.
+- ⚡ In my free time, I solve problems on **GeeksforGeeks**, play video games, and read articles along with alternate history.
+- 📬 How to reach me:
+  - **LinkedIn:** [Ntokozo Mweli](https://www.linkedin.com/in/ntokozo-mweli)
+  - **Email:** ntokozomweli001@gmail.com
 
 ---
 
-## Stats
+## :hammer_and_wrench: Languages, Frameworks & Tools
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntokom89&show_icons=true&theme=radical)
-<br>
+<p align="left">
+  <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"/>
+  <img alt=".NET" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"/>
+  <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img alt="JavaScript" width="28px" style="padding-right:10px;" src="https://img.icons8.com/color/48/javascript--v1.png"/>
+  <img alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg"/>
+  <img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/>
+  <img alt="Ionic" width="28px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg"/>
+  <img alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"/>
+  <img alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+  <img alt="SQL Server" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+  <img alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
+  <img alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"/>
+  <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img alt="VS Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntokom89&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-ntokom89/ntokom89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br clear="all"/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ntokom89&show_icons=true&theme=radical&hide_border=true" alt="Ntokozo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntokom89&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
